@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ClassesDemo/ClassesDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:I am Poor/I am Poor.xcodeproj">
    </FileRef>
    <FileRef
@@ -27,5 +30,8 @@
    </FileRef>
    <FileRef
       location = "group:Destini-iOS13/Destini-iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BMI-Calculator-iOS13/BMI Calculator.xcodeproj">
    </FileRef>
 </Workspace>
