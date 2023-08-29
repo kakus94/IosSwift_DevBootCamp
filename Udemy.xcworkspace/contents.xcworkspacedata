@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:I am Poor/I am Poor.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Dicee-iOS13/Dicee-iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Magic-8-Ball-iOS13/Magic 8 Ball.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AutoLayout-iOS13/AutoLayout-iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Calculator-Layout-iOS13/Calculator Layout iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Xylophone-iOS13/Xylophone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EggTimer-iOS13/EggTimer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Quizzler-iOS13/Quizzler-iOS13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Destini-iOS13/Destini-iOS13.xcodeproj">
+   </FileRef>
+</Workspace>
