@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:DelegateLearn.playground">
+   </FileRef>
+   <FileRef
       location = "group:ClassesDemo/ClassesDemo.xcodeproj">
    </FileRef>
    <FileRef
@@ -33,5 +36,11 @@
    </FileRef>
    <FileRef
       location = "group:BMI-Calculator-iOS13/BMI Calculator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tipsy-iOS13/Tipsy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Clima-iOS13/Clima.xcodeproj">
    </FileRef>
 </Workspace>
