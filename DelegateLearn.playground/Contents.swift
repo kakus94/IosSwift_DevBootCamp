@@ -9,6 +9,7 @@ class Information {
   
   var delegate: InfoProtocol? 
   
+  
   func wheteIsStation() { 
     delegate?.getInfo()
   }
